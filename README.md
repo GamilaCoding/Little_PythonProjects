@@ -1,5 +1,4 @@
-# Little_PythonProjects-
-Little_Projects by Python
+# Little_PythonProjects-by Python
 
 If you like this practice from this repo fork and here are some resources will helped you 
 ## OS docs
